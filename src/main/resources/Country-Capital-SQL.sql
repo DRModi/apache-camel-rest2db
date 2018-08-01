@@ -1,0 +1,1 @@
+CREATE TABLE country_capital (country_name text, contry_capital text, create_date timestamp without time zone DEFAULT now());
